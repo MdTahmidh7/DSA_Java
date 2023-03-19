@@ -1,4 +1,7 @@
 package Sorting;
+// WHY ?
+// Number of swap is decrease than the Bubble sort
+// It is a stable sorting algorithm
 
 import java.util.Arrays;
 
