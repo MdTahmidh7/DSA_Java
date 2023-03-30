@@ -1,8 +1,5 @@
 package Leet;
 
-import java.util.ArrayList;
-import java.util.List;
-
 //  https://leetcode.com/problems/find-the-duplicate-number/
 // Amazom
 public class FindTheDuplicateNumber {
